@@ -2,8 +2,8 @@
 
 d = { 'settings': { 'branch': 'master',
                 'doc_baseurl': '/test-doclink-method',
-                'doc_host': 'https://seeM.github.io',
-                'git_url': 'https://github.com/seeM/test-doclink-method',
+                'doc_host': 'https://rxavier.github.io',
+                'git_url': 'https://github.com/rxavier/test-doclink-method',
                 'lib_path': 'test_doclink_method'},
   'syms': { 'test_doclink_method.core': { 'test_doclink_method.core.MyClass': ('core.html#myclass', 'test_doclink_method/core.py'),
                                           'test_doclink_method.core.MyClass.method': ('core.html#method', 'test_doclink_method/core.py')}}}
