@@ -1,0 +1,1 @@
+Sitemap: https://rxavier.github.io/test-doclink-method/sitemap.xml

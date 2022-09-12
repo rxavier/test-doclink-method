@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test-doclink-method",
+    "section": "",
+    "text": "MyClass and MyClass.method."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "from nbdev.showdoc import *\nsource"
+  },
+  {
+    "objectID": "core.html#method",
+    "href": "core.html#method",
+    "title": "core",
+    "section": "method",
+    "text": "method\nThis is a section named like a class method. Hyperlinks shouldn’t point here."
+  }
+]
