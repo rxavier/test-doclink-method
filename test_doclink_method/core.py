@@ -3,6 +3,9 @@
 # %% auto 0
 __all__ = ['MyClass']
 
-# %% ../00_core.ipynb 2
+# %% ../00_core.ipynb 3
 class MyClass:
-    def method(self): pass
+    """Nothing class"""
+    def method():
+        """Nothing method"""
+        pass
